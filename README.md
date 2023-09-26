@@ -25,7 +25,7 @@ Firebase (banco de dados).
 
 2 - Baixar as dependências com o comando: npm i
 
-3 - Rodar o projeto com o comando: npx quasar dev
+3 - Rodar o projeto com o comando: quasar dev # OU: yarn quasar dev # OU: npx quasar dev
 
 
 Segue abaixo um tutorial de como mudar o status (pendente, em andamento, concluído) de sua tarefa
